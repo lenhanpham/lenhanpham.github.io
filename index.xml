@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Le Nhan Pham</title>
+    <link>https://lenhanpham.github.io/</link>
+    <description>Recent content on Le Nhan Pham</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Sep 2020 23:52:06 +1000</lastBuildDate><atom:link href="https://lenhanpham.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://lenhanpham.github.io/post/homepage/</link>
+      <pubDate>Mon, 28 Sep 2020 23:52:06 +1000</pubDate>
+      
+      <guid>https://lenhanpham.github.io/post/homepage/</guid>
+      <description>&lt;h3 id=&#34;about-le-nhan-pham&#34;&gt;ABOUT LE NHAN PHAM&lt;/h3&gt;
+&lt;p&gt;Le Nhan Pham is a postdoc research fellow at Institute for Frontier Materials - Deakin Uni, Australia.&lt;/p&gt;
+&lt;p&gt;He is a lecturer at Department of Chemistry, University of Dalat, Vietnam.&lt;/p&gt;
+&lt;p&gt;He obtained his Ph.D. from University of Leuven, Belgium (September 2019).&lt;/p&gt;
+&lt;p&gt;His research is in the field of Computational and Theoretical Chemistry.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lenhanpham.github.io/vietnamese/&#34; title=&#34;Click để xem bằng Tiếng Việt&#34;&gt;Giới thiệu về tác giả bằng Tiếng Việt&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vietnamese</title>
+      <link>https://lenhanpham.github.io/vietnamese/</link>
+      <pubDate>Mon, 28 Sep 2020 22:59:09 +1000</pubDate>
+      
+      <guid>https://lenhanpham.github.io/vietnamese/</guid>
+      <description>Thông tin chung Phạm Lê Nhân tốt nghiệp tiến sỹ tại Khoa hóa học, Đại học Leuven (tháng 9, năm 2019).
+Chuyên ngành nghiên cứu: Hóa lý thuyết và tính toán.
+Email: Lenhanhoaqn[@]gmail.com
+Lý lịch khoa học: Le-Nhan-Pham.pdf
+Giới thiệu hướng nghiên cứu Các hướng nghiên cứu của Phạm Lê Nhân tập trung vào một số lĩnh vực chuyên sâu. Nhìn chung, hiện nay tác giả đang đi vào hai hướng chính liên quan đến nghiên cứu cơ bản vật liệu vô cơ dạng cụm nguyên tử (clusters) và vật liệu ứng dụng trong trong công nghệ sinh học.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://lenhanpham.github.io/about/</link>
+      <pubDate>Mon, 28 Sep 2020 20:01:52 +1000</pubDate>
+      
+      <guid>https://lenhanpham.github.io/about/</guid>
+      <description>Personal information  Researcher
+l.pham[at]deakin.edu.au
+Institute for Frontier Materials
+Deakin University
+ Homepage:
+https://lenhanpham.github.io
+https://sites.google.com/view/lenhanpham
+Personal email: lenhanhoaqn[at]gmail.com
+Google scholar: https://scholar.google.com/citations?user=yC7hLR0AAAAJ&amp;amp;hl=en
+CV: Le-Nhan-Pham.pdf
+Education KU Leuven, Leuven, Belgium
+PhD, Physical &amp;amp; Computational Chemistry, September 2019
+Dissertation Title: &amp;ldquo;Properties of small 3d-metal based clusters: A journey from wave function to density functional methods&amp;rdquo;
+Pre-doctoral program, Physical &amp;amp; Computational Chemistry, February 2015 - June 2016
+University of Science, Ho Chi Minh City, Vietnam</description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>https://lenhanpham.github.io/publication/</link>
+      <pubDate>Mon, 28 Sep 2020 19:59:18 +1000</pubDate>
+      
+      <guid>https://lenhanpham.github.io/publication/</guid>
+      <description>Publications   Pham, L. N.; Russo, S. P. Energetic Degeneracy and Electronic Structures of Germanium Trimers Doped with Titanium. J. Chem. Phys. 2020, 153 (7), 074309. doi:10.1063/5.0016230.
+  Pham, L. N.; van Dijk, C. N.; Kirilyuk, A.; Goerigk, L.; Nguyen, M. T.; Janssens, E. Structures and Magnetism of Cationic Chromium&amp;ndash;Manganese Bimetallic Oxide Clusters. J. Phys. Chem. C 2020, 124 (4), 2598&amp;ndash;2608. doi:10.1021/acs.jpcc.9b1.
+  Pham, L. N.; Claes, P.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://lenhanpham.github.io/research/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lenhanpham.github.io/research/</guid>
+      <description>Research   Investigation into ground and excited states of small clusters containing transition metals (using multireference methods)
+  Study of geometric and electronic structures, and magnetic properties of transition metal oxide clusters (using DFT)
+  2D materials and biological materials
+  Programing 1. A simple Hartree-Fock program written in Python 3 In an attempt to learn programming, I have created a small program written in Python 3, which can solve the Schrodinger equation for HHe+ at the Hartree-Fock level.</description>
+    </item>
+    
+  </channel>
+</rss>

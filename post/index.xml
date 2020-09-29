@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Le Nhan Pham</title>
+    <link>https://lenhanpham.github.io/post/</link>
+    <description>Recent content in Posts on Le Nhan Pham</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Sep 2020 23:52:06 +1000</lastBuildDate><atom:link href="https://lenhanpham.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://lenhanpham.github.io/post/homepage/</link>
+      <pubDate>Mon, 28 Sep 2020 23:52:06 +1000</pubDate>
+      
+      <guid>https://lenhanpham.github.io/post/homepage/</guid>
+      <description>&lt;h3 id=&#34;about-le-nhan-pham&#34;&gt;ABOUT LE NHAN PHAM&lt;/h3&gt;
+&lt;p&gt;Le Nhan Pham is a postdoc research fellow at Institute for Frontier Materials - Deakin Uni, Australia.&lt;/p&gt;
+&lt;p&gt;He is a lecturer at Department of Chemistry, University of Dalat, Vietnam.&lt;/p&gt;
+&lt;p&gt;He obtained his Ph.D. from University of Leuven, Belgium (September 2019).&lt;/p&gt;
+&lt;p&gt;His research is in the field of Computational and Theoretical Chemistry.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lenhanpham.github.io/vietnamese/&#34; title=&#34;Click để xem bằng Tiếng Việt&#34;&gt;Giới thiệu về tác giả bằng Tiếng Việt&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
