@@ -13,11 +13,8 @@
       <pubDate>Mon, 28 Sep 2020 23:52:06 +1000</pubDate>
       
       <guid>https://lenhanpham.github.io/post/homepage/</guid>
-      <description>&lt;h3 id=&#34;about-le-nhan-pham&#34;&gt;ABOUT LE NHAN PHAM&lt;/h3&gt;
-&lt;p&gt;I am a theoretical &amp;amp; computational chemist. All of my research experiences, so far, are related to physical chemistry and materials, particularly atomic clusters, excited states, and currently 2D&amp;amp;biological materials. I graduated (Ph.D.) from Department of Chemistry, University of Leuven, Belgium (September 2019), and is currently working as a postdoctoral research fellow at Deakin University and visiting scholar at Department of Physics, RMIT, Australia. I am also a yearly-contract lecturer at Department of Chemistry, University of Dalat, Vietnam.&lt;/p&gt;
-&lt;p&gt;Main research topics: 2D materials, Biological materials, Transition metal oxides, Silicon and Germanium doped with transition metals, Spectroscopy (anion photoelectron and photodissociation)&lt;/p&gt;
-&lt;p&gt;Programing: Python, C++ (beginner), bash script&lt;/p&gt;
-&lt;p&gt;Experience with: Molcas, Molpro, Dalton, Gaussian, Turbomole, Quantum Espresso, ADF, Materials Studio (CASTEP, DMOL&lt;sup&gt;3&lt;/sup&gt;), Orca, Gromacs&lt;/p&gt;
+      <description>&lt;h3 id=&#34;le-nhan-pham&#34;&gt;LE NHAN PHAM&lt;/h3&gt;
+&lt;p&gt;I am a chemist whose research experience is related to physical &amp;amp;theoretical chemistry and materials, particularly atomic clusters, excited states,  and currently 2D&amp;amp;biological materials. I graduated (Ph.D.) from  Department of Chemistry, University of Leuven, Belgium (September 2019), and is currently working as a postdoctoral research fellow at Deakin  University and visiting scholar at Department of Physics, RMIT,  Australia. I was also a yearly-contract lecturer at Department of  Chemistry, University of Dalat, Vietnam.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://lenhanpham.github.io/vietnamese/&#34; title=&#34;Click để xem bằng Tiếng Việt&#34;&gt;Giới thiệu về nghiên cứu của Phạm Lê Nhân bằng Tiếng Việt&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
@@ -36,10 +33,10 @@ Giới thiệu hướng nghiên cứu Các hướng nghiên cứu của Phạm L
     
     <item>
       <title>About</title>
-      <link>https://lenhanpham.github.io/about/</link>
+      <link>https://lenhanpham.github.io/cv/</link>
       <pubDate>Mon, 28 Sep 2020 20:01:52 +1000</pubDate>
       
-      <guid>https://lenhanpham.github.io/about/</guid>
+      <guid>https://lenhanpham.github.io/cv/</guid>
       <description>Personal information  Researcher
 l.pham[at]deakin.edu.au
 Institute for Frontier Materials
@@ -63,9 +60,7 @@ University of Science, Ho Chi Minh City, Vietnam</description>
       <pubDate>Mon, 28 Sep 2020 19:59:18 +1000</pubDate>
       
       <guid>https://lenhanpham.github.io/publication/</guid>
-      <description>Publications   Pham, L. N.; Russo, S. P. Energetic Degeneracy and Electronic Structures of Germanium Trimers Doped with Titanium. J. Chem. Phys. 2020, 153 (7), 074309. doi:10.1063/5.0016230.
-  Pham, L. N.; van Dijk, C. N.; Kirilyuk, A.; Goerigk, L.; Nguyen, M. T.; Janssens, E. Structures and Magnetism of Cationic Chromium&amp;ndash;Manganese Bimetallic Oxide Clusters. J. Phys. Chem. C 2020, 124 (4), 2598&amp;ndash;2608. doi:10.1021/acs.jpcc.9b1.
-  Pham, L. N.; Claes, P.</description>
+      <description>Publications  Pham, L. N.; Walsh, T. R. Force Fields for Water–Surface Interaction: Is Reproduc- tion of the Experimental Water Contact Angle Enough? Chem. Commun. 2021, 57 (27), 3355–3358. doi:10.1039/d1cc00426c. Pham, L. N.; Russo, S. P. Energetic Degeneracy and Electronic Structures of Germanium Trimers Doped with Titanium. J. Chem. Phys. 2020, 153 (7), 074309. doi:10.1063/5.0016230. Pham, L. N.; van Dijk, C. N.; Kirilyuk, A.; Goerigk, L.; Nguyen, M. T.; Janssens, E.</description>
     </item>
     
     <item>
@@ -74,10 +69,7 @@ University of Science, Ho Chi Minh City, Vietnam</description>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://lenhanpham.github.io/research/</guid>
-      <description>Research   Investigation into ground and excited states of small clusters containing transition metals (using multireference methods)
-  Study of geometric and electronic structures, and magnetic properties of transition metal oxide clusters (using DFT)
-  2D materials and biological materials
-  Programing 1. A simple Hartree-Fock program written in Python 3 In an attempt to learn programming, I have created a small program written in Python 3, which can solve the Schrodinger equation for HHe+ at the Hartree-Fock level.</description>
+      <description>Research  2D nanomaterials and biological materials Molecular dynamics force field development Semiconductor clusters doped with transition metals Transition metal oxide magnetic materials  Programing 1. A simple Hartree-Fock program written in Python 3 In an attempt to learn programming, I have created a small program written in Python 3, which can solve the Schrodinger equation for HHe+ at the Hartree-Fock level. If you are interested in Python programming and basic quantum chemical theory, just have a look at it (on Github).</description>
     </item>
     
   </channel>
