@@ -8,14 +8,12 @@
     <language>en</language>
     <lastBuildDate>Mon, 28 Sep 2020 23:52:06 +1000</lastBuildDate><atom:link href="https://lenhanpham.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Recent paper on ChemComm</title>
+      <title>Force fields for water–surface interaction: is reproduction of the experimental water contact angle enough?</title>
       <link>https://lenhanpham.github.io/post/homepage/</link>
       <pubDate>Mon, 28 Sep 2020 23:52:06 +1000</pubDate>
       
       <guid>https://lenhanpham.github.io/post/homepage/</guid>
-      <description>Our recently accepted paper in @ChemCommun proposes a novel criterion and then a new protocol for assessment and development of interfacial force fields. Very excited to share it here.
-https://t.co/9OD4VZeXQO
-&amp;mdash; Le Nhan Pham (@LeNhanPham1) March 1, 2021  </description>
+      <description>A new protocol based on quantum chemical calculations and molecular dynamics simulations is proposed to revisit water–MoS2 interfacial force fields (FFs). The accurate reproduction of experimental water contact angles is suggested to be insufficient to ensure reliable FFs for recovering structural properties of the interfacial solvent. As an example, this protocol is used to develop a new set of FF parameters to both capture interfacial structural phenomena at the interface between water and MoS2 and recover experimental water contact angle data.</description>
     </item>
     
     <item>
