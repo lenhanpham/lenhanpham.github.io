@@ -11,7 +11,7 @@
 
 
 
-<meta name="description" content="Hugo, the world&#39;s fastest framework for building websites">
+<meta name="description" content="Research interests">
 
 
 
@@ -22,7 +22,7 @@
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Research" />
-<meta name="twitter:description" content="Research  2D nanomaterials and biological materials Molecular dynamics force field development Semiconductor clusters doped with transition metals Transition metal oxide magnetic materials  Programing 1. A simple Hartree-Fock program written in Python 3 In an attempt to learn programming, I have created a small program written in Python 3, which can solve the Schrodinger equation for HHe&#43; at the Hartree-Fock level. If you are interested in Python programming and basic quantum chemical theory, just have a look at it (on Github)." />
+<meta name="twitter:description" content="I. Research of interests  2D nanomaterials and biological materials Molecular dynamics force field development Semiconductor clusters doped with transition metals Transition metal oxide magnetic materials  II. Force Field development Here we introduce data used for development of MoSu-CHARMM and notices for usage of MoSu-CHARMM Data used for fitting MoSu-CHARMM force field This depository contains all crystal structure files (CIF) of several optimized adsorption configurations used to calculate fitting and validation datasets of energy which were employed to fit and validate the MoSu-CHARMM." />
 
 
 <link rel="canonical" href="https://lenhanpham.github.io/research/">
@@ -100,18 +100,56 @@
       
       
       <div class="content">
-        <h3 id="research">Research</h3>
+        <h3 id="i-research-of-interests">I. Research of interests</h3>
 <ul>
 <li>2D nanomaterials and biological materials</li>
 <li>Molecular dynamics force field development</li>
 <li>Semiconductor clusters doped with transition metals</li>
 <li>Transition metal oxide magnetic materials</li>
 </ul>
-<h3 id="programing">Programing</h3>
+<h3 id="ii-force-field-development">II. Force Field development</h3>
+<h5 id="here-we-introduce-data-used-for-development-of-mosu-charmm-and-notices-for-usage-of-mosu-charmm">Here we introduce data used for development of MoSu-CHARMM and notices for usage of MoSu-CHARMM</h5>
+<h5 id="data-used-for-fitting-mosu-charmm-force-field">Data used for fitting MoSu-CHARMM force field</h5>
+<p>This depository contains all crystal structure files (CIF) of several optimized
+adsorption configurations used to calculate fitting and validation datasets of
+energy which were employed to fit and validate the MoSu-CHARMM. All adsorption
+energies in these two data sets can be found in the spreadsheet (Excel file).</p>
+<p>Because the level of theory was meticulously benchmarked against
+experimental data, the adsorption energy datasets are very accurate and are the
+best adsorption energies of several organic compounds on the MoS<sub>2</sub>
+surface. The optimized geometrical structures and corresponding energies here can
+be used for further purposes such as machine learning and method development.</p>
+<p>Please cite this paper &ldquo;<strong>Pham, L. N.; Walsh, T.</strong> <em>Predicting Biomolecule
+Adsorption on MoS<sub>2</sub> Nanosheets with High Structural Fidelity.</em> <strong>Chem.
+Sci.</strong> <em><strong>2022</strong></em> <a href="https://doi.org/10.1039/D1SC06814H" target="_blank">doi:10.1039/D1SC06814H</a>&rdquo;
+if you are using this set of data.</p>
+<h5 id="usage-of-mosu-charmm-force-field">Usage of MoSu-CHARMM Force Field</h5>
+<p><strong>MoSu-CHARMM</strong> is a high-fidelity force field for simulation interaction
+between biomolecules (peptides and proteins) &amp; all possible organic compounds
+and the MoS<sub>2</sub> surface in aqueous media. MoSu-CHARMM can be used for
+gas-phase simulation as well. In order to use MoSu-CHARMM in aqueous media, the
+TIPS3P water model should be used. Parameters for description of interaction
+between water and MoS<sub>2</sub> can be found in another publication &ldquo;<strong>Pham,
+L. N.; Walsh, T. R.</strong> <em>Force Fields for Water–Surface Interaction: Is
+Reproduction of the Experimental Water Contact Angle Enough?</em> <strong>Chem. Commun.</strong>
+<em><strong>2021</strong></em>, 57 (27), 3355–3358.
+<a href="https://doi.org/10.1039/D1CC00426C" target="_blank">doi:10.1039/d1cc00426c</a>&rdquo;. All parameters in
+the Chem. Sci. paper, together with parameters in the Chem. Comm. one, make
+MoSu-CHARMM complete.</p>
+<h6 id="users-need-to-pay-attention-to-setting-parameters-such-as-vdw-cutoff-and-rcoulomb-when-using-mosu-charrm-these-parameters-are-mentioned-in-two-papers-above">*<em>Users need to pay attention to setting parameters such as vdw cutoff and rcoulomb when using MoSu-CHARRM. These parameters are mentioned in two papers above.</em></h6>
+<h6 id="please-cite-these-two-publications-if-you-use-mosu-charmm-in-your-works">Please cite these two publications if you use MoSu-CHARMM in your works</h6>
+<p><strong>1.</strong>  &ldquo;<strong>Pham, L. N.; Walsh, T. R.</strong> <em>Force Fields for Water–Surface Interaction: Is
+Reproduction of the Experimental Water Contact Angle Enough?</em> <strong>Chem. Commun.</strong>
+<em><strong>2021</strong></em>, 57 (27), 3355–3358.
+<a href="https://doi.org/10.1039/D1CC00426C" target="_blank">doi:10.1039/d1cc00426c</a>&rdquo;.</p>
+<p><strong>2.</strong> <strong>Pham, L. N.; Walsh, T.</strong> <em>Predicting Biomolecule Adsorption
+on MoS<sub>2</sub> Nanosheets with High Structural Fidelity.</em> <strong>Chem. Sci.</strong> <em><strong>2022</strong></em>
+<a href="https://doi.org/10.1039/D1SC06814H" target="_blank">doi:10.1039/D1SC06814H</a></p>
+<h3 id="iii-programing">III. Programing</h3>
 <h5 id="1-a-simple-hartree-fock-program-written-in-python-3">1. A simple Hartree-Fock program written in Python 3</h5>
-<p>In an attempt to learn programming, I have created a small program written in Python 3, which can solve the Schrodinger equation for HHe+ at the Hartree-Fock level. If you are interested in Python programming and basic quantum chemical theory, just have a look at it (on <a href="https://github.com/lenhanpham/Hartree-Fock" title="Hartree-Fock" target="_blank">Github</a>). In the future, this program will be improved and updated.</p>
+<p>In an attempt to learn programming, I have created a small program written in Python 3, which can solve the Schrödinger equation for HHe+ at the Hartree-Fock level. If you are interested in Python programming and basic quantum chemical theory, just have a look at it (on <a href="https://github.com/lenhanpham/Hartree-Fock" title="Hartree-Fock" target="_blank">Github</a>). In the future, this program will be improved and updated.</p>
 <h5 id="2-python-code-to-determine-contact-angle-of-droplets-on-the-surface-of-materials">2. Python code to determine contact angle of droplets on the surface of materials</h5>
-<p>This is a piece of python code used to determine contact angles of a  droplet on a surface. A 2D number-density map from Gromacs MD  simulations is in need. This piece of code was written during my postdoctoral time at Institute for Frontier Materials (IFM) - Deakin University. This code is a part of a project with the aim of  developing a new MD force field for simulation of biological molecules  adsorbed on the MoS<sub>2</sub> surface. The code is self-explanatory. Since the project is in it progress and not published yet, it&rsquo;s <a href="https://github.com/lenhanpham/water-contact-angle" target="_blank">github repository</a> is temporarily set to private. If you are really interested in this code and would like to use it for your your work, please send me some words about your project and purpose, and access to the code will be granted. (will be updated soon)</p>
+<p>This is a piece of python code used to determine contact angles of a  droplet on a surface. A 2D number-density map from Gromacs MD simulations is in need. This piece of code was written during my postdoctoral time at Institute for Frontier Materials (IFM) - Deakin University. This code is a part of a project with the aim of developing a new MD force field for simulation of biological molecules  adsorbed on the MoS<sub>2</sub> surface. The code is self-explanatory. Since the project is in it progress and not published yet, it&rsquo;s <a href="https://github.com/lenhanpham/water-contact-angle" target="_blank">github repository</a> is temporarily set to private. If you are really interested in this code and would like to use it for your work, please send me some words about your project and purpose, and access to the code will be granted. (will be updated soon)</p>
 <p>Update: the code is open now. Please cite the paper below if you use this piece of code.</p>
 <p><a href="https://doi.org/10.1039/D1CC00426C" target="_blank">https://doi.org/10.1039/D1CC00426C</a></p>
 <h5 id="3-a-bunch-of-bash-scripts-used-for-output-analyses-input-generation-gaussian-quantum-espresso-molcas-molpro">3. A bunch of bash scripts used for output analyses, input generation (Gaussian, Quantum Espresso, Molcas, Molpro)</h5>
