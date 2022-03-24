@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Le Nhan Pham</title>
+    <title>Nhan&#39;s everything</title>
     <link>https://lenhanpham.github.io/</link>
-    <description>Recent content on Le Nhan Pham</description>
+    <description>Recent content on Nhan&#39;s everything</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Mar 2022 23:52:06 +1000</lastBuildDate><atom:link href="https://lenhanpham.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -21,7 +21,7 @@
     <item>
       <title>Research</title>
       <link>https://lenhanpham.github.io/research/</link>
-      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Mar 2022 19:59:18 +1000</pubDate>
       
       <guid>https://lenhanpham.github.io/research/</guid>
       <description>I. Research of interests  2D nanomaterials and biological materials Molecular dynamics force field development Semiconductor clusters doped with transition metals Transition metal oxide magnetic materials  II. Programing 1. A simple Hartree-Fock program written in Python 3 In an attempt to learn programming, I have created a small program written in Python 3, which can solve the Schrödinger equation for HHe+ at the Hartree-Fock level. If you are interested in Python programming and basic quantum chemical theory, just have a look at it (on Github).</description>
