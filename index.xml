@@ -35,15 +35,11 @@
       <guid>https://lenhanpham.github.io/post/mosucharmm/</guid>
       <description>&lt;h5 id=&#34;here-we-introduce-data-used-for-development-of-mosu-charmm-and-notices-for-usage-of-mosu-charmm&#34;&gt;Here we introduce data used for development of MoSu-CHARMM and notices for usage of MoSu-CHARMM&lt;/h5&gt;
 &lt;h5 id=&#34;data-used-for-fitting-mosu-charmm-force-field&#34;&gt;Data used for fitting MoSu-CHARMM force field&lt;/h5&gt;
-&lt;p&gt;This depository contains all crystal structure files (CIF) of several optimized
-adsorption configurations used to calculate fitting and validation datasets of
-energy which were employed to fit and validate the MoSu-CHARMM. All adsorption
-energies in these two data sets can be found in the spreadsheet (Excel file).&lt;/p&gt;
-&lt;p&gt;Because the level of theory was meticulously benchmarked against
-experimental data, the adsorption energy datasets are very accurate and are the
-best adsorption energies of several organic compounds on the MoS&lt;sub&gt;2&lt;/sub&gt;
-surface. The optimized geometrical structures and corresponding energies here can
-be used for further purposes such as machine learning and method development.&lt;/p&gt;</description>
+&lt;p&gt;This depository (&lt;a href=&#34;https://github.com/lenhanpham/MoS2-FF-paper&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;) contains
+all crystal structure files (CIF) of several optimized adsorption configurations
+used to calculate fitting and validation datasets of energy which were employed
+to fit and validate the MoSu-CHARMM. All adsorption energies in these two data
+sets can be found in the spreadsheet (Excel file).&lt;/p&gt;</description>
     </item>
     
     <item>
