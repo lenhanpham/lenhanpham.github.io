@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+
+<meta name="author" content="Le Nhan Pham">
+
+
+
+<meta name="description" content="Here we introduce data used for development of MoSu-CHARMM and notices for usage of MoSu-CHARMM
+Data used for fitting MoSu-CHARMM force field
+This depository contains all crystal structure files (CIF) of several optimized
+adsorption configurations used to calculate fitting and validation datasets of
+energy which were employed to fit and validate the MoSu-CHARMM. All adsorption
+energies in these two data sets can be found in the spreadsheet (Excel file).
+Because the level of theory was meticulously benchmarked against
+experimental data, the adsorption energy datasets are very accurate and are the
+best adsorption energies of several organic compounds on the MoS2
+surface. The optimized geometrical structures and corresponding energies here can
+be used for further purposes such as machine learning and method development.">
+
+
+
+
+<meta name="keywords" content=" hugo  latex  theme ">
+
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="MoSu-CHARMM Force Field" />
+<meta name="twitter:description" content="Here we introduce data used for development of MoSu-CHARMM and notices for usage of MoSu-CHARMM
+Data used for fitting MoSu-CHARMM force field
+This depository contains all crystal structure files (CIF) of several optimized
+adsorption configurations used to calculate fitting and validation datasets of
+energy which were employed to fit and validate the MoSu-CHARMM. All adsorption
+energies in these two data sets can be found in the spreadsheet (Excel file).
+Because the level of theory was meticulously benchmarked against
+experimental data, the adsorption energy datasets are very accurate and are the
+best adsorption energies of several organic compounds on the MoS2
+surface. The optimized geometrical structures and corresponding energies here can
+be used for further purposes such as machine learning and method development." />
+
+
+<link rel="canonical" href="https://lenhanpham.github.io/post/mosucharmm/">
+
+
+<link media="screen" rel="stylesheet" href='https://lenhanpham.github.io/css/common.css'>
+<link media="screen" rel="stylesheet" href='https://lenhanpham.github.io/css/content.css'>
+<link media="screen" rel="stylesheet" href='https://lenhanpham.github.io/css/highlight.css'>
+
+
+
+<title>MoSu-CHARMM Force Field - Le Nhan Pham</title>
+
+
+
+
+<script>
+  
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\[\[', '\]\]']],
+      processEscapes: true,
+      processEnvironments: true,
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    }
+  };
+</script>
+
+<script async defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>
+
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+
+  <link rel="stylesheet" href='https://lenhanpham.github.io/css/single.css'>
+</head>
+
+<body>
+  <div id="wrapper">
+    <header id="header">
+  <h1>
+    <a href="https://lenhanpham.github.io/">Le Nhan Pham</a>
+  </h1>
+
+  <nav>
+    
+    <span class="nav-bar-item">
+      <a class="link" href="/">Home</a>
+    </span>
+    
+    <span class="nav-bar-item">
+      <a class="link" href="/cv/">CV</a>
+    </span>
+    
+    <span class="nav-bar-item">
+      <a class="link" href="/research/">Research</a>
+    </span>
+    
+    <span class="nav-bar-item">
+      <a class="link" href="/publication/">Publication</a>
+    </span>
+    
+    <span class="nav-bar-item">
+      <a class="link" href="/post/">Post</a>
+    </span>
+    
+  </nav>
+</header>
+
+    <main id="main" class="post">
+      
+      
+      
+      <h1>MoSu-CHARMM Force Field</h1>
+      
+      <div class="content">
+        <h5 id="here-we-introduce-data-used-for-development-of-mosu-charmm-and-notices-for-usage-of-mosu-charmm">Here we introduce data used for development of MoSu-CHARMM and notices for usage of MoSu-CHARMM</h5>
+<h5 id="data-used-for-fitting-mosu-charmm-force-field">Data used for fitting MoSu-CHARMM force field</h5>
+<p>This depository contains all crystal structure files (CIF) of several optimized
+adsorption configurations used to calculate fitting and validation datasets of
+energy which were employed to fit and validate the MoSu-CHARMM. All adsorption
+energies in these two data sets can be found in the spreadsheet (Excel file).</p>
+<p>Because the level of theory was meticulously benchmarked against
+experimental data, the adsorption energy datasets are very accurate and are the
+best adsorption energies of several organic compounds on the MoS<sub>2</sub>
+surface. The optimized geometrical structures and corresponding energies here can
+be used for further purposes such as machine learning and method development.</p>
+<p>Please cite this paper &ldquo;<strong>Pham, L. N.; Walsh, T.</strong> <em>Predicting Biomolecule
+Adsorption on MoS<sub>2</sub> Nanosheets with High Structural Fidelity.</em> <strong>Chem.
+Sci.</strong> <em><strong>2022</strong></em> <a href="https://doi.org/10.1039/D1SC06814H" target="_blank">doi:10.1039/D1SC06814H</a>&rdquo;
+if you are using this set of data.</p>
+<h5 id="usage-of-mosu-charmm-force-field">Usage of MoSu-CHARMM Force Field</h5>
+<p><strong>MoSu-CHARMM</strong> is a high-fidelity force field for simulation interaction
+between biomolecules (peptides and proteins) &amp; all possible organic compounds
+and the MoS<sub>2</sub> surface in aqueous media. MoSu-CHARMM can be used for
+gas-phase simulation as well. In order to use MoSu-CHARMM in aqueous media, the
+TIPS3P water model should be used. Parameters for description of interaction
+between water and MoS<sub>2</sub> can be found in another publication &ldquo;<strong>Pham,
+L. N.; Walsh, T. R.</strong> <em>Force Fields for Water–Surface Interaction: Is
+Reproduction of the Experimental Water Contact Angle Enough?</em> <strong>Chem. Commun.</strong>
+<em><strong>2021</strong></em>, 57 (27), 3355–3358.
+<a href="https://doi.org/10.1039/D1CC00426C" target="_blank">doi:10.1039/d1cc00426c</a>&rdquo;. All parameters in
+the Chem. Sci. paper, together with parameters in the Chem. Comm. one, make
+MoSu-CHARMM complete.</p>
+<h6 id="users-need-to-pay-attention-to-setting-parameters-such-as-vdw-cutoff-and-rcoulomb-when-using-mosu-charrm-these-parameters-are-mentioned-in-two-papers-above">*<em>Users need to pay attention to setting parameters such as vdw cutoff and rcoulomb when using MoSu-CHARRM. These parameters are mentioned in two papers above.</em></h6>
+<h6 id="please-cite-these-two-publications-if-you-use-mosu-charmm-in-your-works">Please cite these two publications if you use MoSu-CHARMM in your works</h6>
+<p><strong>1.</strong>  &ldquo;<strong>Pham, L. N.; Walsh, T. R.</strong> <em>Force Fields for Water–Surface Interaction: Is
+Reproduction of the Experimental Water Contact Angle Enough?</em> <strong>Chem. Commun.</strong>
+<em><strong>2021</strong></em>, 57 (27), 3355–3358.
+<a href="https://doi.org/10.1039/D1CC00426C" target="_blank">doi:10.1039/d1cc00426c</a>&rdquo;.</p>
+<p><strong>2.</strong> <strong>Pham, L. N.; Walsh, T.</strong> <em>Predicting Biomolecule Adsorption
+on MoS<sub>2</sub> Nanosheets with High Structural Fidelity.</em> <strong>Chem. Sci.</strong> <em><strong>2022</strong></em>
+<a href="https://doi.org/10.1039/D1SC06814H" target="_blank">doi:10.1039/D1SC06814H</a></p>
+      </div>
+      <div class="paginator">
+        
+        <a class="link" href="https://lenhanpham.github.io/post/chemscipick/">← prev</a>
+        
+        
+        <a></a>
+        
+      </div>
+      <div class="comment">
+        
+      </div>
+      
+    </main>
+    <footer id="footer">
+  <div>
+    <span>© 2020</span> - <span>2022</span>
+  </div>
+
+  <div>
+    <span>Powered by </span>
+    <a class="link" href="https://gohugo.io/" target="_blank">Hugo</a>
+    <span> Theme </span>
+    <a class="link" href="https://github.com/queensferryme/hugo-theme-texify" target="_blank">TeXify</a>
+  </div>
+
+  <div class="footnote">
+    <span><a class=link href=https://github.com/lenhanpham target=_blank>GitHub</a>, <a class=link href=https://twitter.com/lenhanpham1 target=_blank>Twitter</a> or <a class=link href=/index.xml>RSS</a> | <a class=link href=https://creativecommons.org/licenses/by-nc-sa/4.0 target=_blank rel=noopener>CC BY-NC-SA 4.0</a></span>
+  </div>
+</footer>
+
+  </div>
+  
+
+
+
+
+
+</body>
+
+</html>

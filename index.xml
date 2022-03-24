@@ -24,23 +24,59 @@
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://lenhanpham.github.io/research/</guid>
-      <description>I. Research of interests  2D nanomaterials and biological materials Molecular dynamics force field development Semiconductor clusters doped with transition metals Transition metal oxide magnetic materials  II. Force Field development Here we introduce data used for development of MoSu-CHARMM and notices for usage of MoSu-CHARMM Data used for fitting MoSu-CHARMM force field This depository contains all crystal structure files (CIF) of several optimized adsorption configurations used to calculate fitting and validation datasets of energy which were employed to fit and validate the MoSu-CHARMM.</description>
+      <description>I. Research of interests  2D nanomaterials and biological materials Molecular dynamics force field development Semiconductor clusters doped with transition metals Transition metal oxide magnetic materials  II. Programing 1. A simple Hartree-Fock program written in Python 3 In an attempt to learn programming, I have created a small program written in Python 3, which can solve the Schrödinger equation for HHe+ at the Hartree-Fock level. If you are interested in Python programming and basic quantum chemical theory, just have a look at it (on Github).</description>
     </item>
     
     <item>
-      <title>Recent news</title>
-      <link>https://lenhanpham.github.io/post/homepage/</link>
+      <title>MoSu-CHARMM Force Field</title>
+      <link>https://lenhanpham.github.io/post/mosucharmm/</link>
       <pubDate>Tue, 22 Mar 2022 23:52:06 +1000</pubDate>
       
-      <guid>https://lenhanpham.github.io/post/homepage/</guid>
-      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I&amp;#39;m thrilled to announce that my &lt;a href=&#34;https://twitter.com/ChemicalScience?ref_src=twsrc%5Etfw&#34;&gt;@ChemicalScience&lt;/a&gt; paper coauthored by Prof. Tiffany Walsh at &lt;a href=&#34;https://twitter.com/DeakinIfm?ref_src=twsrc%5Etfw&#34;&gt;@DeakinIfm&lt;/a&gt;  has been selected as Chem Sci Pick of the Week. It will be published in a special collection soon. Stay tuned!&lt;br&gt;🍻 &lt;a href=&#34;https://t.co/Jqg4xZ0FWT&#34;&gt;pic.twitter.com/Jqg4xZ0FWT&lt;/a&gt;&lt;/p&gt;&amp;mdash; Le Nhan (@LeNhanPham1) &lt;a href=&#34;https://twitter.com/LeNhanPham1/status/1504663507186651138?ref_src=twsrc%5Etfw&#34;&gt;March 18, 2022&lt;/a&gt;&lt;/blockquote&gt;
+      <guid>https://lenhanpham.github.io/post/mosucharmm/</guid>
+      <description>&lt;h5 id=&#34;here-we-introduce-data-used-for-development-of-mosu-charmm-and-notices-for-usage-of-mosu-charmm&#34;&gt;Here we introduce data used for development of MoSu-CHARMM and notices for usage of MoSu-CHARMM&lt;/h5&gt;
+&lt;h5 id=&#34;data-used-for-fitting-mosu-charmm-force-field&#34;&gt;Data used for fitting MoSu-CHARMM force field&lt;/h5&gt;
+&lt;p&gt;This depository contains all crystal structure files (CIF) of several optimized
+adsorption configurations used to calculate fitting and validation datasets of
+energy which were employed to fit and validate the MoSu-CHARMM. All adsorption
+energies in these two data sets can be found in the spreadsheet (Excel file).&lt;/p&gt;
+&lt;p&gt;Because the level of theory was meticulously benchmarked against
+experimental data, the adsorption energy datasets are very accurate and are the
+best adsorption energies of several organic compounds on the MoS&lt;sub&gt;2&lt;/sub&gt;
+surface. The optimized geometrical structures and corresponding energies here can
+be used for further purposes such as machine learning and method development.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chem Sci Pick of the Week</title>
+      <link>https://lenhanpham.github.io/post/chemscipick/</link>
+      <pubDate>Sat, 19 Mar 2022 23:52:06 +1000</pubDate>
+      
+      <guid>https://lenhanpham.github.io/post/chemscipick/</guid>
+      <description>&lt;center&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I&amp;#39;m thrilled to announce that my &lt;a href=&#34;https://twitter.com/ChemicalScience?ref_src=twsrc%5Etfw&#34;&gt;@ChemicalScience&lt;/a&gt; paper coauthored by Prof. Tiffany Walsh at &lt;a href=&#34;https://twitter.com/DeakinIfm?ref_src=twsrc%5Etfw&#34;&gt;@DeakinIfm&lt;/a&gt;  has been selected as Chem Sci Pick of the Week. It will be published in a special collection soon. Stay tuned!&lt;br&gt;🍻 &lt;a href=&#34;https://t.co/Jqg4xZ0FWT&#34;&gt;pic.twitter.com/Jqg4xZ0FWT&lt;/a&gt;&lt;/p&gt;&amp;mdash; Le Nhan (@LeNhanPham1) &lt;a href=&#34;https://twitter.com/LeNhanPham1/status/1504663507186651138?ref_src=twsrc%5Etfw&#34;&gt;March 18, 2022&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Very excited to share my recently accepted manuscript in &lt;a href=&#34;https://twitter.com/ChemicalScience?ref_src=twsrc%5Etfw&#34;&gt;@ChemicalScience&lt;/a&gt;. A new high-fidelity force field for MD description of interaction between 2D MoS2 and organic materials including peptides and proteins.&lt;a href=&#34;https://t.co/sR8Lqzcxhi&#34;&gt;https://t.co/sR8Lqzcxhi&lt;/a&gt;&lt;/p&gt;&amp;mdash; Le Nhan (@LeNhanPham1) &lt;a href=&#34;https://twitter.com/LeNhanPham1/status/1504064223462440963?ref_src=twsrc%5Etfw&#34;&gt;March 16, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/center&gt;</description>
+    </item>
+    
+    <item>
+      <title>MoSu-CHARMM force field in Chemical Science</title>
+      <link>https://lenhanpham.github.io/post/chemscipaper/</link>
+      <pubDate>Fri, 18 Mar 2022 23:52:06 +1000</pubDate>
+      
+      <guid>https://lenhanpham.github.io/post/chemscipaper/</guid>
+      <description>&lt;center&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Very excited to share my recently accepted manuscript in &lt;a href=&#34;https://twitter.com/ChemicalScience?ref_src=twsrc%5Etfw&#34;&gt;@ChemicalScience&lt;/a&gt;. A new high-fidelity force field for MD description of interaction between 2D MoS2 and organic materials including peptides and proteins.&lt;a href=&#34;https://t.co/sR8Lqzcxhi&#34;&gt;https://t.co/sR8Lqzcxhi&lt;/a&gt;&lt;/p&gt;&amp;mdash; Le Nhan (@LeNhanPham1) &lt;a href=&#34;https://twitter.com/LeNhanPham1/status/1504064223462440963?ref_src=twsrc%5Etfw&#34;&gt;March 16, 2022&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Our recently accepted paper in &lt;a href=&#34;https://twitter.com/ChemCommun?ref_src=twsrc%5Etfw&#34;&gt;@ChemCommun&lt;/a&gt; proposes a novel criterion and then a new protocol for assessment and development of interfacial force fields. Very excited to share it here.&lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://t.co/9OD4VZeXQO&#34;&gt;https://t.co/9OD4VZeXQO&lt;/a&gt;&lt;/p&gt;&amp;mdash; Le Nhan (@LeNhanPham1) &lt;a href=&#34;https://twitter.com/LeNhanPham1/status/1366194038232150020?ref_src=twsrc%5Etfw&#34;&gt;March 1, 2021&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;</description>
+&lt;/center&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chemical communiation paper</title>
+      <link>https://lenhanpham.github.io/post/chemcompaper/</link>
+      <pubDate>Mon, 22 Mar 2021 23:52:06 +1000</pubDate>
+      
+      <guid>https://lenhanpham.github.io/post/chemcompaper/</guid>
+      <description>&lt;center&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Our recently accepted paper in &lt;a href=&#34;https://twitter.com/ChemCommun?ref_src=twsrc%5Etfw&#34;&gt;@ChemCommun&lt;/a&gt; proposes a novel criterion and then a new protocol for assessment and development of interfacial force fields. Very excited to share it here.&lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://t.co/9OD4VZeXQO&#34;&gt;https://t.co/9OD4VZeXQO&lt;/a&gt;&lt;/p&gt;&amp;mdash; Le Nhan (@LeNhanPham1) &lt;a href=&#34;https://twitter.com/LeNhanPham1/status/1366194038232150020?ref_src=twsrc%5Etfw&#34;&gt;March 1, 2021&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/center&gt;</description>
     </item>
     
     <item>
@@ -63,11 +99,11 @@ Giới thiệu hướng nghiên cứu Các hướng nghiên cứu của Phạm L
       
       <guid>https://lenhanpham.github.io/cv/</guid>
       <description>&lt;h3 id=&#34;le-nhan-pham&#34;&gt;LE NHAN PHAM&lt;/h3&gt;
-&lt;figure&gt;
+&lt;center&gt;&lt;figure&gt;
     &lt;img src=&#34;https://pbs.twimg.com/profile_images/1215084408325099522/WtlTgsec_400x400.jpg&#34; width=&#34;170&#34;/&gt; 
 &lt;/figure&gt;
-
-&lt;p&gt;I am a chemist whose research experience is related to physical &amp;amp; theoretical chemistry and materials, particularly atomic clusters, excited states,  and currently 2D&amp;amp;biological materials. I graduated (Ph.D.) from  Department of Chemistry, University of Leuven, Belgium (September 2019), and is currently working as a postdoctoral research fellow at Deakin  University and visiting scholar at Department of Physics, RMIT,  Australia. I was also a yearly-contract lecturer at Department of  Chemistry, University of Dalat, Vietnam.&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;I am a chemist whose research experience is related to physical &amp;amp; theoretical chemistry and materials, particularly atomic clusters, excited states, and currently 2D&amp;amp;biological materials. I graduated (Ph.D.) from  Department of Chemistry, University of Leuven, Belgium (September 2019), and is currently working as a postdoctoral research fellow at Deakin University and visiting scholar at Department of Physics, RMIT,  Australia. I was also a yearly-contract lecturer at Department of Chemistry, University of Dalat, Vietnam.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://lenhanpham.github.io/vietnamese/&#34; title=&#34;Click để xem bằng Tiếng Việt&#34;&gt;Giới thiệu về nghiên cứu của Phạm Lê Nhân bằng Tiếng Việt&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
