@@ -6,7 +6,40 @@
     <description>Recent content on Nhan&#39;s everything</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jul 2022 20:44:12 +1000</lastBuildDate><atom:link href="https://lenhanpham.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Dec 2022 15:55:51 +1100</lastBuildDate><atom:link href="https://lenhanpham.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python codes to prepare REST MD inputs</title>
+      <link>https://lenhanpham.github.io/post/restmdcode/</link>
+      <pubDate>Thu, 15 Dec 2022 15:55:51 +1100</pubDate>
+      
+      <guid>https://lenhanpham.github.io/post/restmdcode/</guid>
+      <description>&lt;center&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Couples of months ago, I wrote ~400 lines of python codes to prepare inputs for replica exchange with solute tempering (REST) simulations using Gromacs. The code will save your time significantly. Now it is set public; feel free to check it.&lt;a href=&#34;https://t.co/tMk5GTiLYv&#34;&gt;https://t.co/tMk5GTiLYv&lt;/a&gt;&lt;/p&gt;&amp;mdash; Le Nhan (@LeNhanChem) &lt;a href=&#34;https://twitter.com/LeNhanChem/status/1591289360791801859?ref_src=twsrc%5Etfw&#34;&gt;November 12, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/center&gt;</description>
+    </item>
+    
+    <item>
+      <title>New paper published in ACS Inorganic Chemistry</title>
+      <link>https://lenhanpham.github.io/post/inorganicchempaper/</link>
+      <pubDate>Thu, 15 Dec 2022 15:53:44 +1100</pubDate>
+      
+      <guid>https://lenhanpham.github.io/post/inorganicchempaper/</guid>
+      <description>&lt;center&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I am very happy to have contributed to this work on a series of monometallic, homobimetallic, and heterobimetallic complexes of Cu and Zn. 😁&lt;a href=&#34;https://t.co/jciduBLn0P&#34;&gt;https://t.co/jciduBLn0P&lt;/a&gt;&lt;/p&gt;&amp;mdash; Le Nhan (@LeNhanChem) &lt;a href=&#34;https://twitter.com/LeNhanChem/status/1594591883111845893?ref_src=twsrc%5Etfw&#34;&gt;November 21, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/center&gt;</description>
+    </item>
+    
+    <item>
+      <title>Recent work on low-cost polymers</title>
+      <link>https://lenhanpham.github.io/post/sulfidepolymer/</link>
+      <pubDate>Thu, 15 Dec 2022 15:02:30 +1100</pubDate>
+      
+      <guid>https://lenhanpham.github.io/post/sulfidepolymer/</guid>
+      <description>&lt;center&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Thermal imaging and clandestine surveillance using low-cost polymers with long-wave infrared transparency&lt;br&gt;&lt;br&gt;Our latest venture in polymers made from sulfur&lt;a href=&#34;https://t.co/jbZoufewuE&#34;&gt;https://t.co/jbZoufewuE&lt;/a&gt; &lt;a href=&#34;https://t.co/thLXzaXeEN&#34;&gt;pic.twitter.com/thLXzaXeEN&lt;/a&gt;&lt;/p&gt;&amp;mdash; Justin M. Chalker (@ChalkerChem) &lt;a href=&#34;https://twitter.com/ChalkerChem/status/1587252329224744961?ref_src=twsrc%5Etfw&#34;&gt;November 1, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/center&gt;</description>
+    </item>
+    
     <item>
       <title>ACS AMI highlights our work</title>
       <link>https://lenhanpham.github.io/post/acs_ami-ucnp/</link>
@@ -57,7 +90,7 @@
       <pubDate>Wed, 23 Mar 2022 19:59:18 +1000</pubDate>
       
       <guid>https://lenhanpham.github.io/publication/</guid>
-      <description>Publications  Pham, L. N.; Walsh, T. Design traits for diblock copolymer coating properties on NaGdF4 upconversion nanoparticles. ACS Appl. Polym. Mater. 2022, 4, 7, 5224–5233. doi:10.1021/acsapm.2c00738 Pham, L. N.; Walsh, T. Predicting Biomolecule Adsorption on MoS2 Nanosheets with High Structural Fidelity. Chem. Sci. 2022, 13, 5186-5195. doi:10.1039/D1SC06814H (Chem Sci Pick of the Week). Pham, L. N.; Walsh, T. R. Force Fields for Water&amp;ndash;Surface Interaction: Is Reproduction of the Experimental Water Contact Angle Enough?</description>
+      <description>Publications Pham, L. N.; Walsh, T. Design traits for diblock copolymer coating properties on NaGdF4 upconversion nanoparticles. ACS Appl. Polym. Mater. 2022, 4, 7, 5224–5233. doi:10.1021/acsapm.2c00738 Pham, L. N.; Walsh, T. Predicting Biomolecule Adsorption on MoS2 Nanosheets with High Structural Fidelity. Chem. Sci. 2022, 13, 5186-5195. doi:10.1039/D1SC06814H (Chem Sci Pick of the Week). Pham, L. N.; Walsh, T. R. Force Fields for Water&amp;ndash;Surface Interaction: Is Reproduction of the Experimental Water Contact Angle Enough?</description>
     </item>
     
     <item>
@@ -66,7 +99,7 @@
       <pubDate>Wed, 23 Mar 2022 19:59:18 +1000</pubDate>
       
       <guid>https://lenhanpham.github.io/research/</guid>
-      <description>I. Research of interests  2D nanomaterials and biological materials Polymer coating Molecular dynamics force field development Semiconductor clusters doped with transition metals Transition metal oxide magnetic materials Catalyst design  II. Programing 1. A simple Hartree-Fock program written in Python 3 In an attempt to learn programming, I have created a small program written in Python 3, which can solve the Schrödinger equation for HHe+ at the Hartree-Fock level. If you are interested in Python programming and basic quantum chemical theory, just have a look at it (on Github).</description>
+      <description>I. Research of interests 2D nanomaterials and biological materials Polymer coating Molecular dynamics force field development Semiconductor clusters doped with transition metals Transition metal oxide magnetic materials Catalyst design II. Programing 1. A simple Hartree-Fock program written in Python 3 In an attempt to learn programming, I have created a small program written in Python 3, which can solve the Schrödinger equation for HHe+ at the Hartree-Fock level. If you are interested in Python programming and basic quantum chemical theory, just have a look at it (on Github).</description>
     </item>
     
     <item>
